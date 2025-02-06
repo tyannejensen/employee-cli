@@ -2,15 +2,11 @@
 ## Description
 As a business owner, I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
 
+## Video Walkthrough
 
-## Table Of Contents:
-1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [Guidelines](#Guidelines)
-3. [License](#License)
-4. [Contributing](#Contributing)
-5. [Tests](#Tests)
-6. [Questions](#Questions)
+https://drive.google.com/file/d/17T0RPsN1uvlQw6HHpFhUg1Qm8Ffb9Mpy/view?usp=sharing
+
+
 
 ## Installation:
 ```
@@ -41,10 +37,6 @@ WHEN I choose to update an employee role, then I am prompted to select an employ
 
 ## Guidelines:
 You'll need to use the pg.package to connect to your PostgreSQL database and perform queries, and the Inquirer.package to interact with the user via the command line.
-
-
-## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 
 ## Contributing:
